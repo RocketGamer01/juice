@@ -1,6 +1,6 @@
 Shadowbound: Echoes of the Abyss
 
-Team Members: Tuhin Roy
+Team Members: Tuhin Roy & Binit 
 
 "It's like Hollow Knight meets Portal but with a time-warping shadow clone mechanic that challenges your strategy and reflexes."  
 
